@@ -21,7 +21,7 @@ import javafx.scene.text.FontWeight;
 import javafx.scene.text.Text;
 
 
-
+/* This project is completed by Gurubalan Harikrishnan with the help of UCSD University and the MOOCs they have conducted. */
 
 public class MainApp extends Application {
 	private Stage primaryStage;
